@@ -1416,7 +1416,7 @@ function App() {
                   { icon: MessageSquare, text: '+1 (848) 466-6666', action: () => window.open('https://wa.me/18484666666') },
                   { icon: MapPin, text: '2082 Michelson Dr, Irvine, CA 92612', action: null },
                   { icon: MapPin, text: 'Office 2304 Prime Tower, Business Bay, Dubai, UAE', action: null },
-                  { icon: MapPin, text: 'MM Alim Road, Gulberg, Lahore, Pakistan', action: null }
+                  { icon: MapPin, text: '112 Hali Rd, Block B Gulberg 2, Lahore, Pakistan', action: null }
                 ].map((contact, index) => (
                   <motion.div 
                     key={index}
